@@ -1,6 +1,3 @@
-# Practica-1
-Programacion II
-
 package com.company;
 
 import javax.swing.*;
@@ -22,4 +19,12 @@ public class Main {
                 acierto=true;
             }
         }
+    }
+
+
+
+
+
+
+
     }
